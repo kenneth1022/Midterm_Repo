@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1533795156048.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "55B27410",
+    "lastKnownWriteTime" : 6,
+    "last_content_update" : -2147483648,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "94E2A8B5",
+        "caption" : "midetrmseatwork_data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=midetrmseatwork_data&cache_key=94E2A8B5",
+        "displayedObservations" : 153,
+        "environment" : "",
+        "object" : "midetrmseatwork_data",
+        "preview" : 0,
+        "totalObservations" : 153,
+        "variables" : 6
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

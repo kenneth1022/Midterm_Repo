@@ -1,0 +1,26 @@
+
+data <- read.csv ("C:/Users/RM A-225/Documents/Kenneth/SwMidterm/sw3/midetrmseatwork_data.csv")
+
+#1
+ValueRow <-function(data,row,col){
+  data[row,col]
+}
+ValueRow (data,40,"Ozone")
+
+
+#2
+Mval<-function(data, col){
+  sum(is.na(data[,col]))
+}
+Mval(data,"")
+
+
+
+#3
+meanColumn<-function(data,rownum1,rownum2,col){
+  sub<-data[rownum1:rownum2,col]
+  mean(sub,na.rm=TRUE)
+}
+meanColumn(data,40,45,2)
+           
+           
